@@ -1,7 +1,3 @@
-<!-- SECTION G: VISITOR COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohithuppala-code&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <!-- SECTION A: ANIMATED HEADER -->
 <h1 align="center">
@@ -12,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/rohithuppala-code">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Building+Intelligent+Applications+with+AI;Open+Source+Contributor+%7C+Content+Creator;Turning+Ideas+into+Code+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%7C+AI%2FML+Engineer;Building+Intelligent+RAG+based+AI+Applications+;%7C;Turning+Ideas+into+Code+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,11 +21,11 @@
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I'm **Rohith Uppala**, a passionate **Full Stack Developer & AI/ML Enthusiast** from **Vijayawada, Andhra Pradesh, India** 🇮🇳
+I'm **Rohith Uppala**, a passionate **Full Stack Developer & AI/ML Engineer** from **Vijayawada, Andhra Pradesh, India** 🇮🇳
 
-I love building intelligent applications that solve real-world problems, from multi-modal AI assistants to edge inference systems. I'm also a content creator who shares knowledge through various platforms!
+I love building intelligent applications that solve real-world problems, from multi-modal AI assistants to edge inference systems. I also have practical knowledge on Genaratiev AI!
 
-- 🔭 Currently working on **AI-powered applications & Edge Computing**
+- 🔭 Working on **AI-powered applications & Edge Computing**
 - 🌱 Exploring **Large Language Models, RAG Systems & MLOps**
 - 🧠 Built **UniMind-AI** — a Multi-Modal RAG AI Assistant
 - 🌾 Created **Croply_AI** — AI for smart agriculture
