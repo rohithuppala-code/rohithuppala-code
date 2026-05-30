@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/rohithuppala-code">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%7C+AI%2FML+Engineer;Building+Intelligent+RAG+based+AI+Applications;Turning+Ideas+into+Code+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+%26+ML+Engineer;Generative+AI+%26+RAG+Specialist;Building+Intelligent+AI+Applications;Turning+Ideas+into+Code+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,17 +21,17 @@
 
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I'm **Rohith Uppala**, a passionate **Full Stack Developer & AI/ML Engineer** from **Vijayawada, Andhra Pradesh, India** 🇮🇳
+I'm **Rohith Uppala**, a passionate **Full Stack & ML Developer with expertise in Generative AI & RAG** from **Vijayawada, Andhra Pradesh, India** 🇮🇳
 
-I love building intelligent applications that solve real-world problems, from multi-modal AI assistants to edge inference systems. I also have practical knowledge on Genaratiev AI!
+I love building intelligent applications that solve real-world problems using cutting-edge AI/ML technologies. I specialize in Full Stack development combined with Machine Learning, Generative AI, and Retrieval-Augmented Generation (RAG) systems.
 
-- 🔭 Working on **AI-powered applications & Edge Computing**
-- 🌱 Exploring **Large Language Models, RAG Systems & MLOps**
+- 🔭 Working on **Full Stack AI-powered applications & Edge Computing**
+- 🌱 Exploring **Large Language Models, RAG Systems, MLOps, Built Startup Scope AI an AI Startup Validator**
 - 🧠 Built **UniMind-AI** — a Multi-Modal RAG AI Assistant
 - 🌾 Created **Croply_AI** — AI for smart agriculture
 - 📊 Developed **Lyapunov-Edge-Inference** — stability-driven edge AI
 - ⚡ Fun fact: I turn coffee into code & bugs into features ☕🐛
-- 📫 Reach me at **[GitHub](https://github.com/rohithuppala-code)**
+- 📫 Reach me at **[GitHub](https://github.com/rohithuppala-code)** or **[LinkedIn](https://www.linkedin.com/in/rohith-uppala-122a48291/)**
 
 <br/>
 
@@ -71,7 +71,11 @@ I love building intelligent applications that solve real-world problems, from mu
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+### 📨 Message Queues & Caching
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -79,7 +83,6 @@ I love building intelligent applications that solve real-world problems, from mu
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <p align="center">
@@ -90,16 +93,7 @@ I love building intelligent applications that solve real-world problems, from mu
 ## 🌐 **Connect With Me**
 
 <p align="center">
-  <a href="https://www.youtube.com/@rohithuppala" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://medium.com/@rohithuppala" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://www.instagram.com/rohithuppala" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/rohithuppala" target="_blank">
+  <a href="https://www.linkedin.com/in/rohith-uppala-122a48291/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/rohithuppala-code" target="_blank">
@@ -116,26 +110,10 @@ I love building intelligent applications that solve real-world problems, from mu
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohithuppala-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rohithuppala-code&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithuppala-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohithuppala-code&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 **GitHub Trophies**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohithuppala-code&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
