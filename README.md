@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/rohithuppala-code">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%7C+AI%2FML+Engineer;Building+Intelligent+RAG+based+AI+Applications+;%7C;Turning+Ideas+into+Code+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%7C+AI%2FML+Engineer;Building+Intelligent+RAG+based+AI+Applications;%7C;Turning+Ideas+into+Code+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
