@@ -93,7 +93,7 @@ I love building intelligent applications that solve real-world problems using cu
 ## 🤝 **Let's Connect & Collaborate!**
 
 <p align="center">
-  <i>I'm always open to interesting conversations, collaborations, and new opportunities. Whether you want to discuss Full Stack Development, AI/ML, RAG systems, or just say hi — feel free to reach out!</i>
+  <i>I'm always open to interesting conversations, collaborations, and new opportunities. Whether you want to discuss Full Stack Development, AI/ML, Generative AI, RAG systems, or just say hi — feel free to reach out!</i>
 </p>
 
 <p align="center">
