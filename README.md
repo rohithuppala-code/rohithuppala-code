@@ -105,40 +105,22 @@ I love building intelligent applications that solve real-world problems using cu
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<!-- SECTION E: GITHUB STATS -->
-## 📊 **GitHub Stats**
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rohithuppala-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithuppala-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
 <!-- SECTION H: FOOTER -->
 ## 🤝 **Let's Connect & Collaborate!**
 
 <p align="center">
-  <i>I'm always open to interesting conversations, collaborations, and new opportunities. Whether you want to discuss AI, web development, or just say hi — feel free to reach out!</i>
+  <i>I'm always open to interesting conversations, collaborations, and new opportunities. Whether you want to discuss Full Stack Development, AI/ML, RAG systems, or just say hi — feel free to reach out!</i>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@rohithuppala" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://medium.com/@rohithuppala" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://www.instagram.com/rohithuppala" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/rohithuppala" target="_blank">
+  <a href="https://www.linkedin.com/in/rohith-uppala-122a48291/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/rohithuppala-code" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:sairohithuppala123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
