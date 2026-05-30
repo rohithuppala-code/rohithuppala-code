@@ -89,22 +89,6 @@ I love building intelligent applications that solve real-world problems using cu
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<!-- SECTION D: SOCIAL MEDIA LINKS -->
-## 🌐 **Connect With Me**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rohith-uppala-122a48291/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/rohithuppala-code" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
 <!-- SECTION H: FOOTER -->
 ## 🤝 **Let's Connect & Collaborate!**
 
